@@ -1,0 +1,13 @@
+body {background-color:aliceblue}
+
+div.fixed {
+    position: fixed;
+    
+  }
+
+  #sarah {
+      float: left
+  }
+
+  
+  
